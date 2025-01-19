@@ -1,11 +1,19 @@
 .my-title{
 	color: red;
   font-size: 3rem;
+	#red {
+
+border: 1px solid blue;
+
 }
 
 .my-h1{
 	color: green;
   font-size: 2rem;
+	#green {
+
+border: 2px solid blue;
+
 }
 
 .my-p1{
